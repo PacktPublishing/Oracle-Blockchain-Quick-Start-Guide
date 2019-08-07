@@ -1,2 +1,46 @@
-# Oracle-Blockchain-Quick-Start-Guide
-Oracle Blockchain Quick Start Guide, published by Packt
+# Oracle Blockchain Quick Start Guide
+
+This book is author’s foundational milestone in an avarice for creating an ecosystem of blockchain’s enthusiast evangelist that further inspire and influence each other. This book was created with the believe that together we will positively contribute to the evolution of blockchain technologies and continually inspire others to share their experience and further influence others to do so. 
+
+Following are the key features - 
+•	Explore distributed ledger technology, blockchain, its components, features, qualifiers, architecture and demystify the prominence of blockchain-as-a-service (BaaS).
+•	Engage in modeling blockchain-based business network, gain exemplary exposure to developing hyperledger fabric based business networks, and appraise blockchain and hyperledger fabric use cases and their potential effects and integrations.
+•	Experiment with Oracle blockchain platform to gain the practicality of translating network topology on OBP.
+•	Experience the ease and richness of assimilating smartness into business network, by learning full lifecycle of chaincode, from development to update; from installing, initiating, testing to versioning and finally from integration to insight.
+
+# Description
+
+This endeavor, a ledger of knowledge, offers in-depth exploration of blockchain and distributed ledger technology. It offers disquisition on blockchain layered architecture, types of network, actors and structure. It offers a prelude to blockchain, show its relation with distributed ledger technology and demonstrates its pertinence to it. This book will demystify the prominence of blockchain-as-a-service (BaaS) platform, its architecture, features, qualifiers and ease of prebuilt applications while exploring the eminence of Oracle blockchain platform. 
+
+This elicitation demonstrates the highly perceptible world of Hyperledger fabric design and implementation strategy, while diving into the comprehensive five-step design strategy - explore, engage, experiment, experience and influence. Ascertain the equation, coined by author, to justify blockchain as the qualified solution for given use case.  Browse various structures of permissioned business network like joint venture, consortium, and founder initiated etc. and glance though the permissioned distributed autonomous organization (pDAO), a concept fabricate by the author. Glance though author’s effort to corroborate different types of use cases. Ascertain the properties of blockchain and witness them as the driving force behind various use cases and there adoption. Witness how blockchain, prominently hyperledger fabric, has justified (quantified) itself not to be a quixotic dream but a true revolution that will propel today’s enterprise across industries into an era of digital enterprises. Book includes an elaborate use case on FinTech; helping you to learn the art of modelling blockchain business network (KonsensusChain) by defining its assets, participants, ledgers, consensus, transactions, events, permissions and access controls. Also, explore to integrate permissioned hyperledger based business network with BPM, SaaS and other applications, while confecting an infrastructure for the sample business network.
+
+This comprehensive guide, is the cynosure for anyone wishing to learn hyperledger fabric with examples and informative diagrams. It elucidate Hyperledger’s architecture and allow you to assemble a sample hyperledger based business network. Allows you to deep dive into confecting a founder based and a consortium based business network.  You will learn business network components, adding peers to channels, working with chaincode and smart contracts. It will graduate you in enabling Dapp or application to transact with the business network.  Deep dive to identity, security, privacy, membership services and channels. Also, walk though Ledger state and transaction flow via PiggyBank example. This concoction of details allows you to learn transaction flow and its steps, such as - proposals, endorsement, packaging response, verification, ordering, distribution, validation, committing and notifications. In addition, glance thought the rationale for On-Chain and Off-Chain architecture as extension to private data collection.
+
+Graduate with the lore of OBP. Learn to design the solution in-line with the constructs of Oracle Blockchain Platform (OBP). Glance though the sample business network topology, network artifacts, and solution and deployment architecture. Explore OBP is detail, its features and components. Delve into defining and creating an instance of a founder based business network. Comprehend rich history database and witness it in concert with channels.
+
+Book is an endeavour that allows the readers to experiment the doing rather than reading about the doing, as it effectively demonstrates the doing with samples. Book offers in-depth facts on OBP and allows you to graduate with the lore of OBP. Get into the practicality of translating network topology on OBP, create network stakeholders and configure OBP instances. This ledger of knowledge, illustrates transaction infrastructure setup, joining participants to business network, access control, adding smartness (chaincode) to business network and REST proxy configuration to expose chaincode to DApp.
+
+This ledger of knowledge concludes with details into chaincode development and entail details of chaincode development such as - language section, development tools, and development environment setup. Book teaches mapping asset models, operations and develop chaincode functions and interfaces. It highlight full lifecycle of chaincode from development to update; which includes installing, initiating, testing and versioning. It demonstrates the full chaincode with codebase build on Go and Node.js. It illustrates endorsement policy, private data collection and there functioning in concert with chaincode. It teaches chaincode testing via shim and REST endpoints and Integrating client apps with business network using - SDK, REST and events. Finally, it concludes with insights into chaincode, transactions and channels by experimenting with monitoring of business via chaincode logs, channel logs.
+
+# What you will learn
+
+1.	Explore accounting systems, distributed ledger technology, blockchain and its components, features, and qualifiers. 
+2.	Delve into layered architecture, types of networks, structure and actors.
+3.	Demystify the prominence of blockchain-as-a-service (BaaS).
+4.	Appraise Blockchain and Hyperledger fabric use cases and its potential effects and ascertain the equation, to justify blockchain as the qualified solution for given use case.  
+5.	Engage elaborately with a use case and learn to model the blockchain based business network by defining its components, transactions, integrations and infrastructure.
+6.	Elucidate hyperledger fabric and learn to build hyperledger fabric based business networks with examples and informative diagrams.
+7.	Gain exemplary exposure to transaction flow, its steps and unfold the rationale for On-chain and Off-chain architecture.
+8.	Experience Oracle Blockchain Platform and demystify managing and building blockchain solutions using Oracle Blockchain Platform.
+9.	Unmask Oracle’s Blockchain Platform, features, components, relationship with fabric, setups, privacy and access control.
+10.	Experiment with setting up consortium network, nodes, channels, privacy and gain the practicality of translating network topology on OBP.
+11.	Learn full lifecycle of chaincode from development to update; which includes installing, initiating, testing and versioning of chaincode.
+12.	Glance though endorsement policy, private data collection and there functioning in concert with chaincode.
+13.	Delve into code of chaincode, its testing via shim, REST and Integration with client apps using - SDK, REST and events.
+14.	Drill into transaction insight by experimenting with monitoring of business network via chaincode logs, channel logs.
+
+# Who this book is for
+
+This cynosure aims to address diverse audience, from business stakeholders, to business leaders, from blockchain enthusiast evangelist to designers, architects, developers and to anyone and everyone who wants to benefit from the exemplary experience offered in this book. We believe that this book will be established as a quick reference guide to learn blockchain, hyperledger fabric, design strategies and build chaincode on a blockchain platform. The road to writing was challenging, had tremendous demands on your time; however we are committed to deliver up-to date information with uber care. Book inculcate a model that will allows readers to refer this book as reference for blockchain, use cases, hyperledger, design strategy and quick development on blockchain platform.  
+
+Book serve as an equipoise to business and technology, because unlike other technologies, blockchain is a business technology as its core is business. We hope, this ledger of knowledge, will arm readers to prove that blockchain is not a quixotic dream but a true revolution that will propel today’s enterprise across industries into an era of digital enterprises. This comprehensive guide, is the cynosure for anyone wishing to learn hyperledger fabric with examples and informative diagrams. It is an exemplary guide to theoretical and practical aspects of blockchain, hyperledger fabric and Oracle blockchain platform.
