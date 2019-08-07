@@ -3,10 +3,11 @@
 This book is author’s foundational milestone in an avarice for creating an ecosystem of blockchain’s enthusiast evangelist that further inspire and influence each other. This book was created with the believe that together we will positively contribute to the evolution of blockchain technologies and continually inspire others to share their experience and further influence others to do so. 
 
 Following are the key features - 
-•	Explore distributed ledger technology, blockchain, its components, features, qualifiers, architecture and demystify the prominence of blockchain-as-a-service (BaaS).
-•	Engage in modeling blockchain-based business network, gain exemplary exposure to developing hyperledger fabric based business networks, and appraise blockchain and hyperledger fabric use cases and their potential effects and integrations.
-•	Experiment with Oracle blockchain platform to gain the practicality of translating network topology on OBP.
-•	Experience the ease and richness of assimilating smartness into business network, by learning full lifecycle of chaincode, from development to update; from installing, initiating, testing to versioning and finally from integration to insight.
+
+* Explore distributed ledger technology, blockchain, its components, features, qualifiers, architecture and demystify the prominence of blockchain-as-a-service (BaaS).
+* Engage in modeling blockchain-based business network, gain exemplary exposure to developing hyperledger fabric based business networks, and appraise blockchain and hyperledger fabric use cases and their potential effects and integrations.
+* Experiment with Oracle blockchain platform to gain the practicality of translating network topology on OBP.
+* Experience the ease and richness of assimilating smartness into business network, by learning full lifecycle of chaincode, from development to update; from installing, initiating, testing to versioning and finally from integration to insight.
 
 # Description
 
