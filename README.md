@@ -1,2 +1,2 @@
-# Oracle-Blockchain-Services-Quick-Start-Guide
-Oracle Blockchain Services Quick Start Guide, published by Packt
+# Oracle-Blockchain-Quick-Start-Guide
+Oracle Blockchain Quick Start Guide, published by Packt
