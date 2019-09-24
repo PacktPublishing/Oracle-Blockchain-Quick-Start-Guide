@@ -49,9 +49,9 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products <Other books you may enjoy>
 * Blockchain across Oracle [[Packt]](https://www.packtpub.com/in/big-data-and-business-intelligence/blockchain-across-oracle?utm_source=github&utm_medium=repository&utm_campaign=9781788474290) [[Amazon]](https://www.amazon.com/Blockchain-across-Oracle-Understand-implications-ebook/dp/B071G182VB/)
 
-* Hands-On Cybersecurity with Blockchain [[Packt]](https://www.packtpub.com/in/big-data-and-business-intelligence/blockchain-quick-reference?utm_source=github&utm_medium=repository&utm_campaign=9781788995788) [[Amazon]](https://www.amazon.com/Blockchain-Quick-Reference-decentralized-application/dp/1788995783)
+* Blockchain Quick Reference [[Packt]](https://www.packtpub.com/in/big-data-and-business-intelligence/blockchain-quick-reference?utm_source=github&utm_medium=repository&utm_campaign=9781788995788) [[Amazon]](https://www.amazon.com/Blockchain-Quick-Reference-decentralized-application/dp/1788995783)
 
-## Get to Know the Author
+## Get to Know the Authors
 **Vivek Acharya**
 is an IT professional and has been in the world of design, consulting, and architecture for approximately 12 years. He is a certified expert on blockchain, Hyperledger Fabric, Software as a service (SaaS), and analytics. He loves all things associated with the cloud, permissioned decentralized autonomous organization (pDAO), blockchain, predictive analytics, and social business process management (BPM).
 
